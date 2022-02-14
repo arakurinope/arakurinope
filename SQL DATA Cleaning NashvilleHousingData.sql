@@ -179,5 +179,5 @@ SELECT *
 FROM PortfolioProjects..NashvilleHousing
 
 ALTER TABLE PortfolioProjects..NashvilleHousing
-DROP COLUMN SaleDate
+DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress, SaleDate
 
